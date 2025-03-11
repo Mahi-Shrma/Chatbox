@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import user from "./../../assets/Logo.png";
 import sidebarIcon from "./../../assets/Frame 2756.png";
-import Sidebar from "../Sidebar/Sidebar"; 
+import Sidebar from "../sidebar/Sidebar"; 
 import Popup from "../popup/popup";
 import "./style.css";
 
